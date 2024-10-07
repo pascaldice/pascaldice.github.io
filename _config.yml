@@ -3,7 +3,6 @@ title: 파스칼의 탐구생활
 description: 프로그래밍 노하우, 잡담 작성
 lsi: false
 safe: true
-source: [your repo's top level directory]
 incremental: false
 highlighter: rouge
 gist:
