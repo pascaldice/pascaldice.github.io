@@ -30,7 +30,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username: none
 
 # Build settings
-show_dir_listing: false
 theme: minima
 plugins:
    - jekyll-feed
@@ -53,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+show_dir_listing: false
+encoding: utf-8
